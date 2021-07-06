@@ -1,0 +1,1031 @@
+Using pre-set license
+
+ COMMAND LINE ARGUMENTS:
+/Applications/Unity/Hub/Editor/2020.2.6f1/Unity.app/Contents/MacOS/Unity
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+/Users/romain/Downloads/DoctorVSCovid-3
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+62539
+Successfully changed project path to: /Users/romain/Downloads/DoctorVSCovid-3
+/Users/romain/Downloads/DoctorVSCovid-3
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 55.47 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.2.6f1 (8a2143876886)
+[Subsystems] Discovering subsystems at path /Applications/Unity/Hub/Editor/2020.2.6f1/Unity.app/Contents/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path /Users/romain/Downloads/DoctorVSCovid-3/Assets
+GfxDevice: creating device client; threaded=0
+2021-06-20 22:53:52.574 Unity[38455:931690] Color LCD preferred device: Intel(R) Iris(TM) Plus Graphics 655 (low power)
+2021-06-20 22:53:52.574 Unity[38455:931690] Metal devices available: 1
+2021-06-20 22:53:52.574 Unity[38455:931690] 0: Intel(R) Iris(TM) Plus Graphics 655 (low power)
+2021-06-20 22:53:52.574 Unity[38455:931690] Using device Intel(R) Iris(TM) Plus Graphics 655 (low power)
+Initializing Metal device caps: Intel(R) Iris(TM) Plus Graphics 655
+Initialize mono
+Mono path[0] = '/Applications/Unity/Hub/Editor/2020.2.6f1/Unity.app/Contents/Managed'
+Mono path[1] = '/Applications/Unity/Hub/Editor/2020.2.6f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = '/Applications/Unity/Hub/Editor/2020.2.6f1/Unity.app/Contents/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56455
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: /Applications/Unity/Hub/Editor/2020.2.6f1/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/UnityEditor.OSXStandalone.Extensions.dll
+Registered in 0.002399 seconds.
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 41.19 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.144 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.010068 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.58 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.483 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launching external process: /Applications/Unity/Hub/Editor/2020.2.6f1/Unity.app/Contents/Tools/UnityShaderCompiler
+Launched and connected shader compiler UnityShaderCompiler after 0.02 seconds
+Refreshing native plugins compatible for Editor in 0.50 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1813 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 156.6 MB.
+System memory in use after: 156.7 MB.
+
+Unloading 25 unused Assets to reduce memory usage. Loaded Objects now: 2248.
+Total: 2.861246 ms (FindLiveObjects: 0.266828 ms CreateObjectMapping: 0.078003 ms MarkObjects: 2.441907 ms  DeleteObjects: 0.073187 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/Scenes/Environment/Objects/Brick.fbx
+  artifactKey: Guid(c9fb3a4c92f0a2641871e40537b9686e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Environment/Objects/Brick.fbx using Guid(c9fb3a4c92f0a2641871e40537b9686e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '652828f4db22b55abee5b919ba0b611e') in 1.946183 seconds
+  Import took 1.952184 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000412 seconds.
+  path: Assets/Characters/Models/FinalDoctor.fbx
+  artifactKey: Guid(d6c221815c913af488b57584cac7844e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Characters/Models/FinalDoctor.fbx using Guid(d6c221815c913af488b57584cac7844e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '03886d0f9778314c8ff16e87a66a252f') in 0.487979 seconds
+  Import took 0.495480 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000333 seconds.
+  path: Assets/Characters/Models/Doctor Heal.fbx
+  artifactKey: Guid(648e58c67d36f7a47b3f03336dd5caa5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Characters/Models/Doctor Heal.fbx using Guid(648e58c67d36f7a47b3f03336dd5caa5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6d6c44c4d7b2063c0c54a9a23fa5adbc') in 0.165264 seconds
+  Import took 0.172185 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000314 seconds.
+  path: Assets/Scenes/Environment/Prefabs/Other Objects/Map.prefab
+  artifactKey: Guid(4482ac511a76f4f42ade1d271be58421) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Environment/Prefabs/Other Objects/Map.prefab using Guid(4482ac511a76f4f42ade1d271be58421) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '04e1bc059b915ae3b06bdbb5143d68b1') in 0.378376 seconds
+  Import took 0.382176 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000247 seconds.
+  path: Assets/Scenes/Environment/Objects/Canister Red.fbx
+  artifactKey: Guid(a0a6f1523fd9e9c40af87586c621a073) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Environment/Objects/Canister Red.fbx using Guid(a0a6f1523fd9e9c40af87586c621a073) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '32e42624820bdbdcdd6b927062fca1fe') in 0.015481 seconds
+  Import took 0.019099 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000226 seconds.
+  path: Assets/Photon/PhotonUnityNetworking/Demos/PunBasics-Tutorial/Prefabs/Game Manager.prefab
+  artifactKey: Guid(b7fe671fa5d4d4772a4b20715fb9b0ff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Photon/PhotonUnityNetworking/Demos/PunBasics-Tutorial/Prefabs/Game Manager.prefab using Guid(b7fe671fa5d4d4772a4b20715fb9b0ff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b49a3819ef173df31a7aff289702d682') in 0.043723 seconds
+  Import took 0.048148 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000204 seconds.
+  path: Assets/Characters/Virus Materials/Eyes.mat
+  artifactKey: Guid(f680a577dab0d9040aef26b1f70e815d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Characters/Virus Materials/Eyes.mat using Guid(f680a577dab0d9040aef26b1f70e815d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '59f4b20f5d9054dc72586022c18032a7') in 0.229049 seconds
+  Import took 0.232987 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000270 seconds.
+  path: Assets/Characters/Commoner Materials/Eyes.mat
+  artifactKey: Guid(cb77aaca2d5084f409ea66c25b40036a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Characters/Commoner Materials/Eyes.mat using Guid(cb77aaca2d5084f409ea66c25b40036a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ef30b689f3ccfad06f28f5a7c7de8aac') in 0.608940 seconds
+  Import took 0.612133 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000213 seconds.
+  path: Assets/Photon/PhotonUnityNetworking/Demos/DemoSlotRacer/Kenney Assets/Stylized city/Models/car_3.FBX
+  artifactKey: Guid(09f4942833b61cf429ab5ae4addaacac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Photon/PhotonUnityNetworking/Demos/DemoSlotRacer/Kenney Assets/Stylized city/Models/car_3.FBX using Guid(09f4942833b61cf429ab5ae4addaacac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f3383cffeaeb996c35c88a6f9cf052cf') in 0.320803 seconds
+  Import took 0.324625 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000209 seconds.
+  path: Assets/Scenes/Environment/Objects/Decal Mud.fbx
+  artifactKey: Guid(d46cb0cffae0943439256eddad568f44) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Environment/Objects/Decal Mud.fbx using Guid(d46cb0cffae0943439256eddad568f44) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a3197de54b8c997cfb59b38e91ce5bb7') in 0.385276 seconds
+  Import took 0.394032 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000345 seconds.
+  path: Assets/Scenes/Environment/Prefabs/Other Objects/Canister Blue.prefab
+  artifactKey: Guid(1426d7d5379644300b1fcf58a180a890) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Environment/Prefabs/Other Objects/Canister Blue.prefab using Guid(1426d7d5379644300b1fcf58a180a890) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '538048da5dcc4cf6b340b48cbac21707') in 0.009610 seconds
+  Import took 0.013676 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000242 seconds.
+  path: Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/Bangers SDF.asset
+  artifactKey: Guid(125cb55b44b24c4393181402bc6200e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/Bangers SDF.asset using Guid(125cb55b44b24c4393181402bc6200e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7b7c71fc54edacc6b992ce7c1b6b589b') in 0.330886 seconds
+  Import took 0.335272 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000232 seconds.
+  path: Assets/Photon/PhotonUnityNetworking/Demos/DemoSlotRacer/Kenney Assets/Racing Kit/Models/flagGreen.fbx
+  artifactKey: Guid(b2c239f9b60751e4ab9034c7f2ad66b1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Photon/PhotonUnityNetworking/Demos/DemoSlotRacer/Kenney Assets/Racing Kit/Models/flagGreen.fbx using Guid(b2c239f9b60751e4ab9034c7f2ad66b1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '347e4842261c3ed756c047df14b967a4') in 0.024178 seconds
+  Import took 0.029242 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000211 seconds.
+  path: Assets/Scenes/Environment/Objects/Blue Base.fbx
+  artifactKey: Guid(9b93daf8990de79438c6002b48f07cbe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Environment/Objects/Blue Base.fbx using Guid(9b93daf8990de79438c6002b48f07cbe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b1838703228edcf43792e8cfd4da837b') in 0.040665 seconds
+  Import took 0.045255 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000261 seconds.
+  path: Assets/Scenes/Environment/Prefabs/Other Objects/Canister Red.prefab
+  artifactKey: Guid(7755048dd844c4e229b3ddcc60faee12) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Environment/Prefabs/Other Objects/Canister Red.prefab using Guid(7755048dd844c4e229b3ddcc60faee12) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '263f726ebdfb9c9dd8ef45b2602adff3') in 0.017804 seconds
+  Import took 0.022500 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000193 seconds.
+  path: Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/Bangers SDF Glow.mat
+  artifactKey: Guid(d75b8f41e959450c84ac6e967084d3e1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/Bangers SDF Glow.mat using Guid(d75b8f41e959450c84ac6e967084d3e1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '406e9b3ef0be8a324d7cf9929d8125ea') in 0.079891 seconds
+  Import took 0.083697 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000202 seconds.
+  path: Assets/Scenes/Environment/Objects/Electric Box.fbx
+  artifactKey: Guid(6bc0c4ee3af81364da1841621abde6b4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Environment/Objects/Electric Box.fbx using Guid(6bc0c4ee3af81364da1841621abde6b4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e67d1982b2845a156c637e22ef697890') in 0.017157 seconds
+  Import took 0.020207 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000240 seconds.
+  path: Assets/Characters/Commoner Materials/Bodymat.mat
+  artifactKey: Guid(5f53758d36364b94b9eba5c8178226a9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Characters/Commoner Materials/Bodymat.mat using Guid(5f53758d36364b94b9eba5c8178226a9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9913a03f47f828e29d550c93731d7b6f') in 0.136554 seconds
+  Import took 0.139793 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000241 seconds.
+  path: Assets/Scenes/Environment/Prefabs/Angar/Fan.prefab
+  artifactKey: Guid(8c5f45dbcebd948b5a0a9c85703291c0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Environment/Prefabs/Angar/Fan.prefab using Guid(8c5f45dbcebd948b5a0a9c85703291c0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd2aac45670fcb651e2ca69c9f93ce42a') in 0.291349 seconds
+  Import took 0.311569 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000231 seconds.
+  path: Assets/Characters/Resources/Finalvirus.prefab
+  artifactKey: Guid(eff420d0ca42f1b4ab25f1f23e07ff20) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Characters/Resources/Finalvirus.prefab using Guid(eff420d0ca42f1b4ab25f1f23e07ff20) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '330497648ef136f04059110e1517e7bf') in 0.046673 seconds
+  Import took 0.050559 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000196 seconds.
+  path: Assets/Photon/PhotonUnityNetworking/Demos/DemoSlotRacer/Kenney Assets/Stylized city/Materials/22 - Default.mat
+  artifactKey: Guid(86080a783905b5740ad2b81f63a2c650) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Photon/PhotonUnityNetworking/Demos/DemoSlotRacer/Kenney Assets/Stylized city/Materials/22 - Default.mat using Guid(86080a783905b5740ad2b81f63a2c650) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ce987b870d40612b54e4640ba3941e85') in 0.011943 seconds
+  Import took 0.016235 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000296 seconds.
+  path: Assets/Scenes/Environment/Objects/Cover 4.fbx
+  artifactKey: Guid(ea3fa53ece31ee142b329c29ae6f7e34) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Environment/Objects/Cover 4.fbx using Guid(ea3fa53ece31ee142b329c29ae6f7e34) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ed10274b40f6f6a5e450aa7e3473df5c') in 0.017166 seconds
+  Import took 0.021294 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000249 seconds.
+  path: Assets/Scenes/Environment/Prefabs/Walls & Covers/Cover 1.prefab
+  artifactKey: Guid(070c36673584148ffa630c1468f84ce1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Environment/Prefabs/Walls & Covers/Cover 1.prefab using Guid(070c36673584148ffa630c1468f84ce1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '878def0db4611ff664623d0b292b10a4') in 0.015855 seconds
+  Import took 0.019373 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000278 seconds.
+  path: Assets/Photon/PhotonUnityNetworking/Demos/DemoSlotRacer/Kenney Assets/Stylized city/Models/bush1.FBX
+  artifactKey: Guid(c8680fab33c72bb4ba3e31987e0b0182) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Photon/PhotonUnityNetworking/Demos/DemoSlotRacer/Kenney Assets/Stylized city/Models/bush1.FBX using Guid(c8680fab33c72bb4ba3e31987e0b0182) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '077cf8a1b0c3cf66c338b135f55ba76c') in 0.046702 seconds
+  Import took 0.050267 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000384 seconds.
+  path: Assets/Characters/Doctor Materials/Ch16_body1.mat
+  artifactKey: Guid(699a586e8efdbd941ac61df3c23ce6a9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Characters/Doctor Materials/Ch16_body1.mat using Guid(699a586e8efdbd941ac61df3c23ce6a9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b0756275b5ccd9c1af039689c65d637c') in 0.016952 seconds
+  Import took 0.021308 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000224 seconds.
+  path: Assets/Scenes/Environment/Prefabs/Particles/Dust.prefab
+  artifactKey: Guid(8d218001a1e147542bc5a9058259e49f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Environment/Prefabs/Particles/Dust.prefab using Guid(8d218001a1e147542bc5a9058259e49f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6d4e9a296b9c5442b0a91f63b76f8d2f') in 0.015163 seconds
+  Import took 0.018813 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000255 seconds.
+  path: Assets/Scenes/Environment/Prefabs/Buildings/Blue Base.prefab
+  artifactKey: Guid(1a9c621054be64b719d5fc6ad7ecc093) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Environment/Prefabs/Buildings/Blue Base.prefab using Guid(1a9c621054be64b719d5fc6ad7ecc093) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b256b298109d23ceb1e9cf110305789c') in 0.010013 seconds
+  Import took 0.014192 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000203 seconds.
+  path: Assets/Characters/Models/Finalvirus.fbx
+  artifactKey: Guid(29afd7aa836105b4fb32fd4390d5361c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Characters/Models/Finalvirus.fbx using Guid(29afd7aa836105b4fb32fd4390d5361c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6c21543d652bbf7cbdecc7a615c24559') in 0.039816 seconds
+  Import took 0.043252 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000323 seconds.
+  path: Assets/Scenes/Environment/Prefabs/Walls & Covers/Blue Wall.prefab
+  artifactKey: Guid(9ee35c6098d014f7393ef0fcae822a67) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Environment/Prefabs/Walls & Covers/Blue Wall.prefab using Guid(9ee35c6098d014f7393ef0fcae822a67) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5a637a5ad549426eff47fbea2088009e') in 0.011563 seconds
+  Import took 0.014522 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000256 seconds.
+  path: Assets/Characters/Models/Finalvirus_Breathing Idle.fbx
+  artifactKey: Guid(cd69ab5de3ef03142a493a83805bbce2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Characters/Models/Finalvirus_Breathing Idle.fbx using Guid(cd69ab5de3ef03142a493a83805bbce2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd6e7c7e14519a42e9dd475d54abbc989') in 0.053494 seconds
+  Import took 0.058055 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000295 seconds.
+  path: Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/Electronic Highway Sign SDF.asset
+  artifactKey: Guid(dc36b3fdc14f47ebb36fd484a67e268a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/Electronic Highway Sign SDF.asset using Guid(dc36b3fdc14f47ebb36fd484a67e268a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '49a479d12c1e32feef841daa766a28e1') in 0.030688 seconds
+  Import took 0.035046 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000244 seconds.
+  path: Assets/Characters/Commoner Materials/Bottommat.mat
+  artifactKey: Guid(444a71deb2ba83f43bea1a5d3d4dee78) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Characters/Commoner Materials/Bottommat.mat using Guid(444a71deb2ba83f43bea1a5d3d4dee78) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7f072ae4495a91e469a5a242f392c981') in 0.023343 seconds
+  Import took 0.027428 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000240 seconds.
+  path: Assets/Scenes/Environment/Objects/Blue Wall.fbx
+  artifactKey: Guid(2c970576de2edd64482032599483cd58) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Environment/Objects/Blue Wall.fbx using Guid(2c970576de2edd64482032599483cd58) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1d1807e448b3881977309d9a1ea0e9e0') in 0.020669 seconds
+  Import took 0.025106 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000313 seconds.
+  path: Assets/Scenes/Environment/Objects/Decal Newspapers.fbx
+  artifactKey: Guid(c5a453ad9dbd4a34b86a1d7a0c443d45) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Environment/Objects/Decal Newspapers.fbx using Guid(c5a453ad9dbd4a34b86a1d7a0c443d45) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c842598bbc715f7f8f05103f9bf01e20') in 0.039982 seconds
+  Import took 0.047185 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000205 seconds.
+  path: Assets/Scenes/Environment/Prefabs/Angar/Drain.prefab
+  artifactKey: Guid(fc4d0fd52aab74603a1101825f69429a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Environment/Prefabs/Angar/Drain.prefab using Guid(fc4d0fd52aab74603a1101825f69429a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '69e45755443e2c63ef3d5ee044879630') in 0.009210 seconds
+  Import took 0.012977 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000273 seconds.
+  path: Assets/Scenes/Environment/Objects/Container Red.fbx
+  artifactKey: Guid(b0b7855dd5ad53e49ba43f4405f0252f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Environment/Objects/Container Red.fbx using Guid(b0b7855dd5ad53e49ba43f4405f0252f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '02eb78f2b9e6c206b6a31ae6034a42cc') in 0.014337 seconds
+  Import took 0.018813 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000398 seconds.
+  path: Assets/Scenes/Environment/Objects/Angar.fbx
+  artifactKey: Guid(0cf6d15c57eda644eb53e98b935b3ba7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Environment/Objects/Angar.fbx using Guid(0cf6d15c57eda644eb53e98b935b3ba7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3e83018b810c9517bbfcde7fc6e99c0d') in 0.149050 seconds
+  Import took 0.168181 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000238 seconds.
+  path: Assets/Photon/PhotonUnityNetworking/Demos/DemoSlotRacer/Kenney Assets/Racing Kit/Models/billboardLower.fbx
+  artifactKey: Guid(271d69ba92e5ec94eaa3779f0ea4ce47) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Photon/PhotonUnityNetworking/Demos/DemoSlotRacer/Kenney Assets/Racing Kit/Models/billboardLower.fbx using Guid(271d69ba92e5ec94eaa3779f0ea4ce47) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c19695150f613c4db975f98a04d326ef') in 0.017747 seconds
+  Import took 0.021251 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000283 seconds.
+  path: Assets/Scenes/Environment/Prefabs/Angar/Angar.prefab
+  artifactKey: Guid(40c7990cb9d2e47a6a0424f2421d3068) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Environment/Prefabs/Angar/Angar.prefab using Guid(40c7990cb9d2e47a6a0424f2421d3068) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0aa9ed495d984249fcaa63d92c539b0c') in 0.099693 seconds
+  Import took 0.118391 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000258 seconds.
+  path: Assets/Scenes/Environment/Prefabs/Decals/Decal Red Arrow.prefab
+  artifactKey: Guid(7d3bc4282cf754a19827461382f07316) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Environment/Prefabs/Decals/Decal Red Arrow.prefab using Guid(7d3bc4282cf754a19827461382f07316) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '17a68fb0a98ac691fb4bd640a2d7f848') in 0.040790 seconds
+  Import took 0.048372 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000203 seconds.
+  path: Assets/Scenes/Environment/Prefabs/Angar/Lamps.prefab
+  artifactKey: Guid(754854293dbca454db791c2ccd6dc52d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Environment/Prefabs/Angar/Lamps.prefab using Guid(754854293dbca454db791c2ccd6dc52d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6b313d0d6bc344dea69e213c092c5b1b') in 0.009626 seconds
+  Import took 0.013221 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000215 seconds.
+  path: Assets/Scenes/Environment/Objects/Container Blue.fbx
+  artifactKey: Guid(6b5e1d787d8d999469ba95cffa9bc018) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Environment/Objects/Container Blue.fbx using Guid(6b5e1d787d8d999469ba95cffa9bc018) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a4fdecebe6690e9b7f74babff36e55f5') in 0.014379 seconds
+  Import took 0.017317 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000173 seconds.
+  path: Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/Bangers SDF - Outline.mat
+  artifactKey: Guid(f629c6e43dba4bf38cb74d8860150664) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/Bangers SDF - Outline.mat using Guid(f629c6e43dba4bf38cb74d8860150664) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bb5520e39aafe3e06cb49eeb9852610e') in 0.058399 seconds
+  Import took 0.061827 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000220 seconds.
+  path: Assets/Photon/PhotonUnityNetworking/Demos/DemoAsteroids/Models/Materials/Asteroid.mat
+  artifactKey: Guid(be2c382f522695c4fa3947ac8e1d4457) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Photon/PhotonUnityNetworking/Demos/DemoAsteroids/Models/Materials/Asteroid.mat using Guid(be2c382f522695c4fa3947ac8e1d4457) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '200ccb0f389b60f5f61bde6d96fe43af') in 0.008770 seconds
+  Import took 0.012600 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000478 seconds.
+  path: Assets/TextMesh Pro/Examples & Extras/Materials/Crate - Surface Shader Scene.mat
+  artifactKey: Guid(e6b9b44320f4448d9d5e0ee634259966) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Examples & Extras/Materials/Crate - Surface Shader Scene.mat using Guid(e6b9b44320f4448d9d5e0ee634259966) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '96447dde0f35b1552e12d31ca25dfe9a') in 0.425181 seconds
+  Import took 0.428939 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000210 seconds.
+  path: Assets/Scenes/Environment/Prefabs/Walls & Covers/Cover 4.prefab
+  artifactKey: Guid(9dc8e21cb405646c9b1a56c380ee00c1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Environment/Prefabs/Walls & Covers/Cover 4.prefab using Guid(9dc8e21cb405646c9b1a56c380ee00c1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '36a7fcf43820724535db026185ea5d75') in 0.007329 seconds
+  Import took 0.010322 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000210 seconds.
+  path: Assets/Scenes/Environment/Prefabs/Other Objects/Barrel.prefab
+  artifactKey: Guid(8ee111cf2a52c437db4b23d96084c157) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Environment/Prefabs/Other Objects/Barrel.prefab using Guid(8ee111cf2a52c437db4b23d96084c157) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '207802403584a62b935ed7f7ac8cc44b') in 0.012557 seconds
+  Import took 0.015772 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000262 seconds.
+  path: Assets/Scenes/Environment/Prefabs/Other Objects/Container Blue.prefab
+  artifactKey: Guid(d35653784e69b4968a4071ff86e63f74) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Environment/Prefabs/Other Objects/Container Blue.prefab using Guid(d35653784e69b4968a4071ff86e63f74) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b3f009038282eb48e026b2fcb792b3f4') in 0.022624 seconds
+  Import took 0.027499 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000261 seconds.
+  path: Assets/Scenes/Environment/Prefabs/Other Objects/Laptop.prefab
+  artifactKey: Guid(3cb3e0a140d9c4c51b53de1388866dbd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Environment/Prefabs/Other Objects/Laptop.prefab using Guid(3cb3e0a140d9c4c51b53de1388866dbd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '705946b4ab11d8876825835604868daf') in 0.015871 seconds
+  Import took 0.021119 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000309 seconds.
+  path: Assets/Photon/PhotonUnityNetworking/Demos/DemoSlotRacer/Kenney Assets/Stylized city/Materials/20 - Default.mat
+  artifactKey: Guid(4e1a4e79a3548164da24123dbb0f3566) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Photon/PhotonUnityNetworking/Demos/DemoSlotRacer/Kenney Assets/Stylized city/Materials/20 - Default.mat using Guid(4e1a4e79a3548164da24123dbb0f3566) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cfbcbda001ad3eae700a8a2eb1607a2c') in 0.016300 seconds
+  Import took 0.020330 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000213 seconds.
+  path: Assets/Characters/Doctor Materials/Ch16_eyelashes.mat
+  artifactKey: Guid(bdf7f1ae659c6a64dab6ab02849dc800) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Characters/Doctor Materials/Ch16_eyelashes.mat using Guid(bdf7f1ae659c6a64dab6ab02849dc800) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a553613de36656a12a79ec7bd143fbce') in 0.019797 seconds
+  Import took 0.024266 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000244 seconds.
+  path: Assets/Scenes/Environment/Prefabs/Walls & Covers/Cover 2.prefab
+  artifactKey: Guid(e02d899b52ae74d86a0991f2a482ed64) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Environment/Prefabs/Walls & Covers/Cover 2.prefab using Guid(e02d899b52ae74d86a0991f2a482ed64) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd6ad297be11b33b937d85d883924a1fc') in 0.007228 seconds
+  Import took 0.010138 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000179 seconds.
+  path: Assets/Photon/PhotonUnityNetworking/Demos/DemoSlotRacer/Kenney Assets/Stylized city/Materials/24 - Default.mat
+  artifactKey: Guid(c14837dfa515883428e5652d93e80c72) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Photon/PhotonUnityNetworking/Demos/DemoSlotRacer/Kenney Assets/Stylized city/Materials/24 - Default.mat using Guid(c14837dfa515883428e5652d93e80c72) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7b9331691138f8b8c0135213a96a2dfc') in 0.014574 seconds
+  Import took 0.017907 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000270 seconds.
+  path: Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/Bangers SDF Logo.mat
+  artifactKey: Guid(f4e195ac1e204eff960149d1cb34e18c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/Bangers SDF Logo.mat using Guid(f4e195ac1e204eff960149d1cb34e18c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2dbd4897eb53420a6fcdef8c04c9e44e') in 0.330754 seconds
+  Import took 0.334828 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000477 seconds.
+  path: Assets/Scenes/Environment/Objects/Cover 1.fbx
+  artifactKey: Guid(470c4b71138899344873dd8b13ccaae1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Environment/Objects/Cover 1.fbx using Guid(470c4b71138899344873dd8b13ccaae1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6d2b59d651f2170c34b050e19924f82c') in 0.014747 seconds
+  Import took 0.019452 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000329 seconds.
+  path: Assets/Characters/Models/DoctorWalking.fbx
+  artifactKey: Guid(be24e7edefd84e340ad638911970d6b6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Characters/Models/DoctorWalking.fbx using Guid(be24e7edefd84e340ad638911970d6b6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2f3a8fc128a6a6da1bd8a392c4b555bb') in 0.256996 seconds
+  Import took 0.263197 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000251 seconds.
+  path: Assets/Scenes/Environment/Objects/Decal Blood.fbx
+  artifactKey: Guid(0df597ca4dc9b574e96e36e6a41e9937) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Environment/Objects/Decal Blood.fbx using Guid(0df597ca4dc9b574e96e36e6a41e9937) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd6a111cdc8570b9ded9337dfe840e046') in 0.070762 seconds
+  Import took 0.077903 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000349 seconds.
+  path: Assets/Scenes/Environment/Textures & Materials/_Particles/Ember.mat
+  artifactKey: Guid(624b98c6e3625554085643f81b45c91f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Environment/Textures & Materials/_Particles/Ember.mat using Guid(624b98c6e3625554085643f81b45c91f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '39960519314af70d53a311e85023fbe5') in 0.017818 seconds
+  Import took 0.021752 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000275 seconds.
+  path: Assets/Scenes/Environment/Prefabs/Decals/Decal Red Symbol.prefab
+  artifactKey: Guid(023c5a5d917204004a784d740d2921d6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Environment/Prefabs/Decals/Decal Red Symbol.prefab using Guid(023c5a5d917204004a784d740d2921d6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c68997ce8378cde0a60e30ba095627b8') in 0.026579 seconds
+  Import took 0.033592 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000315 seconds.
+  path: Assets/Characters/Models/FinalDoctor_Breathing Idle.fbx
+  artifactKey: Guid(73fa5ff5ace8b3e4c9bc4b6334cb60ef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Characters/Models/FinalDoctor_Breathing Idle.fbx using Guid(73fa5ff5ace8b3e4c9bc4b6334cb60ef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e3d7f64dda76630050bc315b07b9a880') in 0.188925 seconds
+  Import took 0.194813 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000270 seconds.
+  path: Assets/Scenes/Environment/Objects/Decal Blue Symbol.fbx
+  artifactKey: Guid(984bc5da89012224d9256c087be1c96b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Environment/Objects/Decal Blue Symbol.fbx using Guid(984bc5da89012224d9256c087be1c96b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '62743493f5efcb85d4a15f73ece40f05') in 0.055841 seconds
+  Import took 0.063674 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000217 seconds.
+  path: Assets/Scenes/Environment/Prefabs/Decals/Decal Blue Arrow.prefab
+  artifactKey: Guid(edb5e7d3eee40401c8bb626413e01bb3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Environment/Prefabs/Decals/Decal Blue Arrow.prefab using Guid(edb5e7d3eee40401c8bb626413e01bb3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '44fd6d21ce9229d3c61dee68282f02ba') in 0.046230 seconds
+  Import took 0.053361 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000289 seconds.
+  path: Assets/Scenes/Environment/Objects/Decal Red Arrow.fbx
+  artifactKey: Guid(e62d7b304a5893142995dbbda1fc0445) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Environment/Objects/Decal Red Arrow.fbx using Guid(e62d7b304a5893142995dbbda1fc0445) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c9f5de1f0b2a14c21ec8fb0e3adf25c4') in 0.040844 seconds
+  Import took 0.047959 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000269 seconds.
+  path: Assets/Scenes/Environment/Objects/Decal Blue Arrow.fbx
+  artifactKey: Guid(36580b81ae3025f4da58a8016324d086) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Environment/Objects/Decal Blue Arrow.fbx using Guid(36580b81ae3025f4da58a8016324d086) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3ce522c0d06c44b5b78f55c56dcf4b1f') in 0.042939 seconds
+  Import took 0.050162 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000239 seconds.
+  path: Assets/Photon/PhotonUnityNetworking/Demos/DemoSlotRacer/Kenney Assets/Stylized city/Materials/11 - Default.mat
+  artifactKey: Guid(b7d67d7d7ddb88542b23886a4b496c77) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Photon/PhotonUnityNetworking/Demos/DemoSlotRacer/Kenney Assets/Stylized city/Materials/11 - Default.mat using Guid(b7d67d7d7ddb88542b23886a4b496c77) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1e5bb0707705a5b329ad1d77bef90bb2') in 0.020026 seconds
+  Import took 0.024718 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000273 seconds.
+  path: Assets/Scenes/Environment/Prefabs/Other Objects/Container Red.prefab
+  artifactKey: Guid(893c9dfe75efb4c749fae171a2530f91) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Environment/Prefabs/Other Objects/Container Red.prefab using Guid(893c9dfe75efb4c749fae171a2530f91) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '881a8692fdd31c34cbf5a5af8c1d8ba1') in 0.007829 seconds
+  Import took 0.011700 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000186 seconds.
+  path: Assets/Photon/PhotonUnityNetworking/Demos/PunBasics-Tutorial/Prefabs/Demo Intro UI.prefab
+  artifactKey: Guid(f773d1fa10a4f4e0d88490eab5d5b46d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Photon/PhotonUnityNetworking/Demos/PunBasics-Tutorial/Prefabs/Demo Intro UI.prefab using Guid(f773d1fa10a4f4e0d88490eab5d5b46d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '782875f140b25b88443dc098e936fd37') in 0.008879 seconds
+  Import took 0.012632 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000308 seconds.
+  path: Assets/Scenes/Environment/Objects/Decal Red Symbol.fbx
+  artifactKey: Guid(efc3be68dafe57549b44996d9ea1cc4c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Environment/Objects/Decal Red Symbol.fbx using Guid(efc3be68dafe57549b44996d9ea1cc4c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4bb172d76bfe9ce0961ebc4d68d2a292') in 0.037084 seconds
+  Import took 0.043249 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000222 seconds.
+  path: Assets/Scenes/Environment/Prefabs/Other Objects/Car Blue.prefab
+  artifactKey: Guid(096e5b72416f0429b807a3a92f333b6e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Environment/Prefabs/Other Objects/Car Blue.prefab using Guid(096e5b72416f0429b807a3a92f333b6e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8082b59ee1f8fa5be7ad3cd3198724cb') in 0.010272 seconds
+  Import took 0.013720 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000233 seconds.
+  path: Assets/Scenes/Environment/Objects/Barrel.fbx
+  artifactKey: Guid(2fb18c588e875db4889d6c0c3cce5c62) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Environment/Objects/Barrel.fbx using Guid(2fb18c588e875db4889d6c0c3cce5c62) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '82584defdddaf1542c1fb82463349a35') in 0.018660 seconds
+  Import took 0.021759 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000328 seconds.
+  path: Assets/Photon/PhotonUnityNetworking/Demos/Shared Assets/Prefabs/UI/Button Regular.prefab
+  artifactKey: Guid(395d3cc3d7cf0014a870fee72cbd3490) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Photon/PhotonUnityNetworking/Demos/Shared Assets/Prefabs/UI/Button Regular.prefab using Guid(395d3cc3d7cf0014a870fee72cbd3490) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '694e38be6b462fd2bf51d794e61ae65b') in 0.012274 seconds
+  Import took 0.015510 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000234 seconds.
+  path: Assets/Characters/Resources/FinalDoctor.prefab
+  artifactKey: Guid(04601c5a6c769ee44887949b7ec5ac5b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Characters/Resources/FinalDoctor.prefab using Guid(04601c5a6c769ee44887949b7ec5ac5b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '23b40e8806c3493079790e9e7cbbcbaa') in 0.071922 seconds
+  Import took 0.079884 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000406 seconds.
+  path: Assets/Scenes/Environment/Prefabs/Decals/Decal Newspapers.prefab
+  artifactKey: Guid(e13c23dc85f2b4cd7936243b4648b442) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Environment/Prefabs/Decals/Decal Newspapers.prefab using Guid(e13c23dc85f2b4cd7936243b4648b442) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c61ea5cf9a56ee5b8d3eddafd8f5ca0e') in 0.040816 seconds
+  Import took 0.048242 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000229 seconds.
+  path: Assets/Scenes/Environment/Objects/Decal Graffiti.fbx
+  artifactKey: Guid(27aa848273540a14ebb6dabb30ee3f07) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Environment/Objects/Decal Graffiti.fbx using Guid(27aa848273540a14ebb6dabb30ee3f07) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '692ae72bc2738c774a677c57c480ab65') in 0.045170 seconds
+  Import took 0.052972 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000231 seconds.
+  path: Assets/Scenes/Environment/Prefabs/Decals/Decal Graffiti.prefab
+  artifactKey: Guid(cd8493ace691c4608bc3907de8a2e660) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Environment/Prefabs/Decals/Decal Graffiti.prefab using Guid(cd8493ace691c4608bc3907de8a2e660) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '82bcf620548961e937aa6fb5097635bd') in 0.035775 seconds
+  Import took 0.043281 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000224 seconds.
+  path: Assets/Scenes/Environment/Objects/Car Red.fbx
+  artifactKey: Guid(7f811693a97605248beb173abb0d0e5a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Environment/Objects/Car Red.fbx using Guid(7f811693a97605248beb173abb0d0e5a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ee894955d00aab5e14278835ef170430') in 0.013354 seconds
+  Import took 0.017299 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000218 seconds.
+  path: Assets/Photon/PhotonUnityNetworking/Demos/DemoAsteroids/Resources/BigAsteroid.prefab
+  artifactKey: Guid(15f43343ba0a60e47a63d28496373c3f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Photon/PhotonUnityNetworking/Demos/DemoAsteroids/Resources/BigAsteroid.prefab using Guid(15f43343ba0a60e47a63d28496373c3f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '51fb159e5aab9200fb3be612eb09e5db') in 0.210203 seconds
+  Import took 0.213273 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000253 seconds.
+  path: Assets/Scenes/Environment/Objects/Drain.fbx
+  artifactKey: Guid(cf38692b7bf2eb24396ebd7533553121) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Environment/Objects/Drain.fbx using Guid(cf38692b7bf2eb24396ebd7533553121) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '77d272b7f1962979d16561f075345b18') in 0.012452 seconds
+  Import took 0.015650 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000199 seconds.
+  path: Assets/Photon/PhotonUnityNetworking/Demos/DemoSlotRacer/Kenney Assets/Stylized city/Materials/13 - Default54.mat
+  artifactKey: Guid(831e4ea6beda02947bdca5aeb8543156) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Photon/PhotonUnityNetworking/Demos/DemoSlotRacer/Kenney Assets/Stylized city/Materials/13 - Default54.mat using Guid(831e4ea6beda02947bdca5aeb8543156) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3421f4c0e9c83b5608e713a300538299') in 0.017640 seconds
+  Import took 0.021090 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000218 seconds.
+  path: Assets/Photon/PhotonUnityNetworking/Demos/DemoSlotRacer/Kenney Assets/Stylized city/Materials/13 - Default.mat
+  artifactKey: Guid(b957742c5b9bfd441b9b330c8b55d0c5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Photon/PhotonUnityNetworking/Demos/DemoSlotRacer/Kenney Assets/Stylized city/Materials/13 - Default.mat using Guid(b957742c5b9bfd441b9b330c8b55d0c5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e0ec956acdd29ad3ac8f7b0c3fe6bee9') in 0.011033 seconds
+  Import took 0.015765 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000240 seconds.
+  path: Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/Anton SDF - Outline.mat
+  artifactKey: Guid(a00013af81304728b2be1f4309ee2433) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/Anton SDF - Outline.mat using Guid(a00013af81304728b2be1f4309ee2433) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cbedf52c0f8a9c92ec6ecc30bb23805f') in 0.025046 seconds
+  Import took 0.029072 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000212 seconds.
+  path: Assets/Scenes/Environment/Objects/Car Blue.fbx
+  artifactKey: Guid(f528bf7d30e44c549b7aa2adef42a03c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Environment/Objects/Car Blue.fbx using Guid(f528bf7d30e44c549b7aa2adef42a03c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c0afdef7510b202bd0f506f716c64e15') in 0.015001 seconds
+  Import took 0.018474 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000249 seconds.
+  path: Assets/Characters/Models/remy_Breathing Idle.fbx
+  artifactKey: Guid(17b46f66da5a2b041bddbb7bb90f4c14) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Characters/Models/remy_Breathing Idle.fbx using Guid(17b46f66da5a2b041bddbb7bb90f4c14) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3001730157538aa1533036ced47d6b2b') in 0.248794 seconds
+  Import took 0.256107 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000279 seconds.
+  path: Assets/Photon/PhotonUnityNetworking/Demos/DemoSlotRacer/Kenney Assets/Stylized city/Models/car_4.FBX
+  artifactKey: Guid(f3cb3c8f5cd4b514ebf9fbfda32cb36d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Photon/PhotonUnityNetworking/Demos/DemoSlotRacer/Kenney Assets/Stylized city/Models/car_4.FBX using Guid(f3cb3c8f5cd4b514ebf9fbfda32cb36d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3595f174b7f881080c372ed76515015f') in 0.139861 seconds
+  Import took 0.143764 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000280 seconds.
+  path: Assets/Scenes/Environment/Prefabs/Angar/Floor.prefab
+  artifactKey: Guid(962ea734ca24f4fccbc190b55c0e9619) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Environment/Prefabs/Angar/Floor.prefab using Guid(962ea734ca24f4fccbc190b55c0e9619) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cd0a15c9646aa2f2cb82686c471247d0') in 0.008972 seconds
+  Import took 0.012664 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000345 seconds.
+  path: Assets/Scenes/Environment/Objects/Floor.fbx
+  artifactKey: Guid(16f55686161ed804b997466e9649430e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Environment/Objects/Floor.fbx using Guid(16f55686161ed804b997466e9649430e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b4b162473b3578bbecd3d7aedd46177a') in 0.020453 seconds
+  Import took 0.023870 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000264 seconds.
+  path: Assets/Photon/PhotonUnityNetworking/Demos/DemoProcedural/Materials/Black.mat
+  artifactKey: Guid(1598ff147655ecb4893e78f88baa9475) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Photon/PhotonUnityNetworking/Demos/DemoProcedural/Materials/Black.mat using Guid(1598ff147655ecb4893e78f88baa9475) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e136397e4a7c6418949ffcc08409a9dd') in 0.009026 seconds
+  Import took 0.012484 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000224 seconds.
+  path: Assets/Photon/PhotonUnityNetworking/Demos/DemoAsteroids/Prefabs/Bullet.prefab
+  artifactKey: Guid(5624ee9da9d10514ea7b808e83979c85) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Photon/PhotonUnityNetworking/Demos/DemoAsteroids/Prefabs/Bullet.prefab using Guid(5624ee9da9d10514ea7b808e83979c85) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b8590755839a9137d132c3a8efdb5ef2') in 0.037639 seconds
+  Import took 0.041323 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000245 seconds.
+  path: Assets/Scenes/Environment/Prefabs/Decals/Decal Blood.prefab
+  artifactKey: Guid(93d9d607b9d304c59876234b0219faf2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Environment/Prefabs/Decals/Decal Blood.prefab using Guid(93d9d607b9d304c59876234b0219faf2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'aa38237d6de57483d68c33620038a92a') in 0.035935 seconds
+  Import took 0.044697 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000244 seconds.
+  path: Assets/Scenes/Environment/Prefabs/Other Objects/Electric Box.prefab
+  artifactKey: Guid(20aeaa5636d7f4b60adfdc09e245b70a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Environment/Prefabs/Other Objects/Electric Box.prefab using Guid(20aeaa5636d7f4b60adfdc09e245b70a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '113ced6e84f947f6a41f4e1fcac9e73e') in 0.015591 seconds
+  Import took 0.019548 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000192 seconds.
+  path: Assets/Scenes/Environment/Prefabs/Decals/Decal Mud.prefab
+  artifactKey: Guid(88327b3303d534e9ea8acb036a7d41f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Environment/Prefabs/Decals/Decal Mud.prefab using Guid(88327b3303d534e9ea8acb036a7d41f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '75077f2c94ef3561f79be702c29467eb') in 0.029080 seconds
+  Import took 0.036711 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000222 seconds.
+  path: Assets/Photon/PhotonUnityNetworking/Demos/DemoSlotRacer/Kenney Assets/Stylized city/Models/car_1.FBX
+  artifactKey: Guid(1ec55baed88ac07429a52bee4c519015) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Photon/PhotonUnityNetworking/Demos/DemoSlotRacer/Kenney Assets/Stylized city/Models/car_1.FBX using Guid(1ec55baed88ac07429a52bee4c519015) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7dd481bc6df96f4ec38922ad0ee3e4ec') in 0.175533 seconds
+  Import took 0.179048 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000221 seconds.
+  path: Assets/Photon/PhotonUnityNetworking/Demos/DemoAsteroids/Models/Asteroid01.fbx
+  artifactKey: Guid(401fae203bae0ee428e401e7f9af9be8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Photon/PhotonUnityNetworking/Demos/DemoAsteroids/Models/Asteroid01.fbx using Guid(401fae203bae0ee428e401e7f9af9be8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '339ad6be630dcb1e7ed1c152b22f446c') in 0.012970 seconds
+  Import took 0.015954 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000223 seconds.
+  path: Assets/Scenes/Environment/Objects/Canister Blue.fbx
+  artifactKey: Guid(6107695922ecb134289044605c851394) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Environment/Objects/Canister Blue.fbx using Guid(6107695922ecb134289044605c851394) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1b13af90e6fd3a935e10c985113c8779') in 0.013560 seconds
+  Import took 0.017986 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000405 seconds.
+  path: Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/Anton SDF.asset
+  artifactKey: Guid(8a89fa14b10d46a99122fd4f73fca9a2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/Anton SDF.asset using Guid(8a89fa14b10d46a99122fd4f73fca9a2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '49513b1737692a39085165e4c06b204b') in 0.040744 seconds
+  Import took 0.044456 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000254 seconds.
+  path: Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/Anton SDF - Drop Shadow.mat
+  artifactKey: Guid(749b9069dc4742c5bfa5c74644049926) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/Anton SDF - Drop Shadow.mat using Guid(749b9069dc4742c5bfa5c74644049926) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'db262b0051c4838adedc88043ae7e644') in 0.059314 seconds
+  Import took 0.063834 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000247 seconds.
+  path: Assets/Characters/Models/commoner.fbx
+  artifactKey: Guid(9c6cc0f320f88f0479e06bac836aa7cd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Characters/Models/commoner.fbx using Guid(9c6cc0f320f88f0479e06bac836aa7cd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '93f09890a838ac3bbe99689a8e963b40') in 0.471397 seconds
+  Import took 0.479981 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000247 seconds.
+  path: Assets/Photon/PhotonUnityNetworking/Demos/PunBasics-Tutorial/Resources/My Robot Kyle -done-.prefab
+  artifactKey: Guid(fe764102aa5aa431795da15fa2dec0e2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Photon/PhotonUnityNetworking/Demos/PunBasics-Tutorial/Resources/My Robot Kyle -done-.prefab using Guid(fe764102aa5aa431795da15fa2dec0e2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5ba20a2a6ef1a673acb7dfda3b64a08f') in 0.385161 seconds
+  Import took 0.390001 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000317 seconds.
+  path: Assets/Scenes/Environment/Prefabs/Decals/Decal Blue Symbol.prefab
+  artifactKey: Guid(8ca80505cb1944f048c9432eab3a88cb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Environment/Prefabs/Decals/Decal Blue Symbol.prefab using Guid(8ca80505cb1944f048c9432eab3a88cb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c5ea36a716384861760d14db19d469b6') in 0.042743 seconds
+  Import took 0.049955 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000275 seconds.
+  path: Assets/Scenes/Environment/Objects/Fan.fbx
+  artifactKey: Guid(5bd23b2c5769ca044af68ba49d81e14d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Environment/Objects/Fan.fbx using Guid(5bd23b2c5769ca044af68ba49d81e14d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '214ddaea38496f5eb35e2b615fead59c') in 0.159677 seconds
+  Import took 0.182796 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000328 seconds.
+  path: Assets/Photon/PhotonUnityNetworking/Resources/PhotonServerSettings.asset
+  artifactKey: Guid(a0ad527063ca9ce4ab2c03a7476be429) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Photon/PhotonUnityNetworking/Resources/PhotonServerSettings.asset using Guid(a0ad527063ca9ce4ab2c03a7476be429) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7bc4a21a83ba867a2aa00e6253bb58f0') in 0.004694 seconds
+  Import took 0.010199 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000250 seconds.
+  path: Assets/Scenes/Environment/Objects/Cover 3.fbx
+  artifactKey: Guid(294221a5ba277d34fad643979f77f98d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Environment/Objects/Cover 3.fbx using Guid(294221a5ba277d34fad643979f77f98d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '24ee05126d1b96e7e8af6c8d7ca2ab76') in 0.049134 seconds
+  Import took 0.053288 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000319 seconds.
+  path: Assets/Characters/Commoner Materials/Eyelashes.mat
+  artifactKey: Guid(0411fe8c4ececba46b0d0760d95073af) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Characters/Commoner Materials/Eyelashes.mat using Guid(0411fe8c4ececba46b0d0760d95073af) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '028ccb5d0d6f58f4381115f32e7cfdd3') in 0.062075 seconds
+  Import took 0.066633 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000294 seconds.
+  path: Assets/Photon/PhotonUnityNetworking/Demos/DemoSlotRacer/Kenney Assets/Racing Kit/Models/Materials/_defaultMat.mat
+  artifactKey: Guid(f0a6a86e908f6204ab518387a784ed36) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Photon/PhotonUnityNetworking/Demos/DemoSlotRacer/Kenney Assets/Racing Kit/Models/Materials/_defaultMat.mat using Guid(f0a6a86e908f6204ab518387a784ed36) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a39795b8633fef4cf7539b7e3fcc459b') in 0.016512 seconds
+  Import took 0.020360 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000228 seconds.
+  path: Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/Anton SDF - Sunny Days.mat
+  artifactKey: Guid(6522f30e342599e4e9dd4cc2cc03c830) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/Anton SDF - Sunny Days.mat using Guid(6522f30e342599e4e9dd4cc2cc03c830) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cdf60e8c852d59ef8836489a674c74ec') in 0.148060 seconds
+  Import took 0.152283 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000257 seconds.
+  path: Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/Bangers SDF - Drop Shadow.mat
+  artifactKey: Guid(f2dcf029949142e28b974630369c8b4e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/Bangers SDF - Drop Shadow.mat using Guid(f2dcf029949142e28b974630369c8b4e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bbf27d14ffba80ac6bb0c3f01f1d10a9') in 0.025290 seconds
+  Import took 0.029685 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000296 seconds.
+  path: Assets/Materials/Commoners.mat
+  artifactKey: Guid(cd7eb895fae94415f9b54c6392e8884f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Commoners.mat using Guid(cd7eb895fae94415f9b54c6392e8884f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2bcea3947e5e3fbaaafcf30407beabdc') in 0.007937 seconds
+  Import took 0.011908 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000235 seconds.
+  path: Assets/Photon/PhotonUnityNetworking/Demos/DemoSlotRacer/Kenney Assets/Stylized city/Materials/13 - Default22662.mat
+  artifactKey: Guid(7d91274cc4a876a439f75445704f421b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Photon/PhotonUnityNetworking/Demos/DemoSlotRacer/Kenney Assets/Stylized city/Materials/13 - Default22662.mat using Guid(7d91274cc4a876a439f75445704f421b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ebcc883ed5aa571b5089739add4719ff') in 0.006518 seconds
+  Import took 0.009798 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000218 seconds.
+  path: Assets/Characters/Citizen.prefab
+  artifactKey: Guid(d2db9053a536e0148b77e10823f15308) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Characters/Citizen.prefab using Guid(d2db9053a536e0148b77e10823f15308) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cfdc647c966cfdd2f49d282b401dfada') in 0.075298 seconds
+  Import took 0.082646 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000362 seconds.
+  path: Assets/Scenes/Environment/Objects/Cover 2.fbx
+  artifactKey: Guid(e4cdd66ab4202b6428d89e02e36adfdb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Environment/Objects/Cover 2.fbx using Guid(e4cdd66ab4202b6428d89e02e36adfdb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ebc58187073af3b6e344a3d80ac84270') in 0.011759 seconds
+  Import took 0.014970 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000200 seconds.
+  path: Assets/Scenes/Environment/Prefabs/Other Objects/Car Red.prefab
+  artifactKey: Guid(cd59e5ca700a74bc28319747f471cde8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Environment/Prefabs/Other Objects/Car Red.prefab using Guid(cd59e5ca700a74bc28319747f471cde8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '50b103987095fa7ff2c698feea74bdc9') in 0.008464 seconds
+  Import took 0.011738 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000197 seconds.
+  path: Assets/Photon/PhotonUnityNetworking/Demos/PunCockpit/Prefabs/Help Button.prefab
+  artifactKey: Guid(cf998ac0cf60141c597aecb3a8ffad74) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Photon/PhotonUnityNetworking/Demos/PunCockpit/Prefabs/Help Button.prefab using Guid(cf998ac0cf60141c597aecb3a8ffad74) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e0bf0cd0edf5710710f2586148a05407') in 0.004969 seconds
+  Import took 0.007948 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000236 seconds.
+  path: Assets/Characters/Doctor Materials/Ch16_Body.mat
+  artifactKey: Guid(7187d8d491aa3644884c5562eadfb491) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Characters/Doctor Materials/Ch16_Body.mat using Guid(7187d8d491aa3644884c5562eadfb491) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '076c65698dd1740cac2c59a4612ca212') in 0.013514 seconds
+  Import took 0.016344 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000211 seconds.
+  path: Assets/Scenes/Environment/Prefabs/Other Objects/Brick.prefab
+  artifactKey: Guid(d82cbe0e3ac8447f88b01813c502d941) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Environment/Prefabs/Other Objects/Brick.prefab using Guid(d82cbe0e3ac8447f88b01813c502d941) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9c18743b7cb5c209785f6ce71a380218') in 0.009167 seconds
+  Import took 0.012366 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000221 seconds.
+  path: Assets/Scenes/Environment/Prefabs/Walls & Covers/Cover 3.prefab
+  artifactKey: Guid(75779cbc54785439a9d9972ea055956c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Environment/Prefabs/Walls & Covers/Cover 3.prefab using Guid(75779cbc54785439a9d9972ea055956c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a0acd28f6dd4dfbd0f5afa056e65211c') in 0.006882 seconds
+  Import took 0.010018 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000203 seconds.
+  path: Assets/Photon/PhotonUnityNetworking/Demos/DemoSlotRacer/Kenney Assets/Racing Kit/Models/Materials/bark.mat
+  artifactKey: Guid(5b3826dd21e1d2b4a947c774023d1db3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Photon/PhotonUnityNetworking/Demos/DemoSlotRacer/Kenney Assets/Racing Kit/Models/Materials/bark.mat using Guid(5b3826dd21e1d2b4a947c774023d1db3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '64d4713563251e3a5383f6e16d0651f6') in 0.006422 seconds
+  Import took 0.009025 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000282 seconds.
+  path: Assets/Characters/Virus Materials/Base.mat
+  artifactKey: Guid(20244ff92c7ba7945861c7bfc759183a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Characters/Virus Materials/Base.mat using Guid(20244ff92c7ba7945861c7bfc759183a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c1167318f02d131f2c5b4e3974708749') in 0.006140 seconds
+  Import took 0.008757 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000244 seconds.
+  path: Assets/Photon/PhotonUnityNetworking/Demos/DemoSlotRacer/Kenney Assets/Stylized city/Materials/car.mat
+  artifactKey: Guid(c282d31bf082fca4a822239b62ff8257) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Photon/PhotonUnityNetworking/Demos/DemoSlotRacer/Kenney Assets/Stylized city/Materials/car.mat using Guid(c282d31bf082fca4a822239b62ff8257) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd3c6278c908b6445f25c1be7fb209874') in 0.006638 seconds
+  Import took 0.009557 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 614.798558 seconds.
+  path: Assets/Photon/PhotonChat/Code/PhotonChat.asmdef
+  artifactKey: Guid(08a110bd598f7604f9519c2d7e1fb3cc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Photon/PhotonChat/Code/PhotonChat.asmdef using Guid(08a110bd598f7604f9519c2d7e1fb3cc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e68fe5266ec9743c8ca3f82794e535b9') in 0.189680 seconds
+  Import took 0.193871 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000348 seconds.
+  path: Assets/Photon/PhotonRealtime/Code/PhotonRealtime.asmdef
+  artifactKey: Guid(831409e8f9d13b5479a3baef9822ad34) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Photon/PhotonRealtime/Code/PhotonRealtime.asmdef using Guid(831409e8f9d13b5479a3baef9822ad34) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fa588b1cb479721da760b0b4f04507a2') in 0.002603 seconds
+  Import took 0.006292 seconds .
+
