@@ -1,4 +1,5 @@
 # Doctor-VS-Covid
+![GitHub Logo](https://github.com/rom1trt/Doctor-VS-Covid/blob/main/Algorithm_Senseis_Logo.png)
 
 Algorithm senseis is a group born in December 2020 with the goal of bringing a touch of real challenge to the world of video games. We wanted to create a video game that allows players to embody characters that exist in real life. The idea of our game is to have a gameplay where players are under pressure because they must fulfill their mission to infect as many people as possible to save the virus in the case of the virus. On the other hand, to heal the most people to save humanity. Our game does not stop at this stressful side, but also allows the character to identify with the current situation that we all suffer. Thus, our game will generate tension between players while entertaining them and making them aware of this pandemic.
 
